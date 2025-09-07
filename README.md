@@ -1,4 +1,4 @@
-## Networking Porblems and Concepts in Rust
+## Networking Problems and Concepts in Rust
 
 
 ### Steps to clone the project
