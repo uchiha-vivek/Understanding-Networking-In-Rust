@@ -1,6 +1,17 @@
 ## Networking Porblems and Concepts in Rust
 
 
+### Steps to clone the project
+```bash
+git clone https://github.com/uchiha-vivek/Understanding-Networking-In-Rust.git
+```
+
+```bash
+cd Understanding-Networking-In-Rust
+```
+
+
+
 
 
 
